@@ -11,7 +11,7 @@ export default function AboutSection() {
     { name: "GoConnect", logo: "/logos/goconnect.africa.png", url: "https://goconnect.africa" },
     { name: "Marlink", logo: "/logos/ok marlink.png", url: "https://marlink.com" },
     { name: "Stellar", logo: "/logos/stellar.png", url: "https://stellar.tc" },
-    { name: "Starlink Priority", logo: "/logos/starlink.png", url: "https://starlink.com" },
+    
   ];
 
   const highlights = [
