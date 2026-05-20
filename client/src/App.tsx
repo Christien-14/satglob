@@ -23,7 +23,7 @@ function Router() {
 function WhatsAppFloatButton() {
   return (
     <a
-      href="https://wa.me/243971787744" 
+      href="https://wa.me/243997605917" 
       target="_blank"
       rel="noopener noreferrer"
       aria-label="WhatsApp"
